@@ -1,0 +1,3 @@
+/*median(a!flatten({ri!list1,ri!list2}))*/
+
+sort(a!flatten(merge(ri!list1, ri!list2, ri!list3)))
