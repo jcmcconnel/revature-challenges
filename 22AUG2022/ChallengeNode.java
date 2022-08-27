@@ -96,7 +96,7 @@
                 this.sortLeft();
             } else {
                 this.setPrevious(highest);
-                highest.sortRight();
+                highest.sortLeft();
             }
 
         }
